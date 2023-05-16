@@ -1,4 +1,4 @@
-# github-profile-summary-cards-example
+# github-profile-summary-cards
 
 
 [![](https://raw.githubusercontent.com/sudhansu97ssp/sudhansu97ssp/master/profile-summary-card-output/darcula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
