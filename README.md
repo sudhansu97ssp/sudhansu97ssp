@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on nCircle Tech Private Limited.<br>I'm looking to collaborate on Web Development and Mobile Development.<br>I'm looking for help with the Web Development with ASP.NET.<br>I'm currently learning Java & Spring Frameworks.<br>Ask me about anything related to Web Development, Mobile Development tech stack learning roadmap.<br>I love to play cricket, coding and problem solving.<br>
+I'm currently working on nCircle Tech Private Limited.<br>I'm looking to collaborate on Mobile Development and Web Development.<br>I'm currently learning Java & Spring Frameworks.<br>Ask me about anything related to Web Development, Mobile Development tech stack learning roadmap.<br>I love to play cricket, coding and problem solving.<br>
 
 
 ## 🌐 Socials:
